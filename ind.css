@@ -12,11 +12,11 @@ body {
     }
   h1 {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(168, 168, 168);
+    color: rgb(0, 0, 0);
   }
   li {
     font-family:Georgia, 'Times New Roman', Times, serif;
-    color: rgb(130, 141, 165);
+    color: rgb(92, 122, 187);
   }
   h3 {
     font-family:Georgia, 'Times New Roman', Times, serif;
@@ -24,7 +24,7 @@ body {
   }
   p {
     font-family:sGeorgia, 'Times New Roman', Times, serif;
-    color: rgb(130, 141, 165);
+    color: rgb(92, 122, 187);
   }
   body {
     font-family: Arial, sans-serif;
